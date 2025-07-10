@@ -1,6 +1,15 @@
 ## Hi there 👋
 
 <!--
+
+I’m Prachiti — an engineering student learning C++ and Data Structures & Algorithms.  
+This is my space to log my daily coding practice, share mini projects, and grow my skills step by step.  
+
+✨ *Code. Learn. Repeat.*  
+🚀 *Building my foundations for Google and beyond.*
+
+Let’s connect & grow together! 🌱
+
 **PrachitiSolkar24/PrachitiSolkar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
